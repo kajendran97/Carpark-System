@@ -3,7 +3,7 @@ public class Vehicle {
     private String vehicleNum;
     private int wheeler;
     private DateTime date;
-	// GITHUB change
+	//Git Hub change
 
     public Vehicle(String vehicleName, String vehicleNum, int wheeler, String date) {
         this.vehicleName = vehicleName;
