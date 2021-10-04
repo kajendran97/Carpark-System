@@ -4,6 +4,7 @@ import java.sql.Time;
 public class Car extends Abstract {
     private String colour;
     private int doors;
+	Private int maxspeed;
 
     public Car(String vehicleName, String vehicleNum, int wheeler, String colour, String date, int doors){
         super(vehicleName , vehicleNum , wheeler , date );
